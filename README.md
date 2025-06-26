@@ -1,9 +1,6 @@
 # Introduction-to-AI-ML
 
-intro-to-ai-ml-soc25/
-│
-├── README.md
-├── .gitignore
+
 ├── Week_1_Python_Basics/
 │   ├── variables_loops_functions.py
 │   └── notes.md
