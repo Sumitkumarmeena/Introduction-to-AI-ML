@@ -36,4 +36,31 @@
 
 summary of Introduction to AI/ML (Weeks 1–4)
  
-Over the first four weeks of the SoC’25 AI/ML track, I have built a solid foundation in both programming and machine learning. I began by revisiting core Python concepts such as variables, conditionals, loops, functions, and data structures, which strengthened my logical thinking and programming skills. In Week 2, I progressed to working with data using NumPy and Pandas—learning to handle, clean, and transform structured data efficiently, including reading from CSV files and performing statistical operations. Week 3 introduced me to data visualization through Matplotlib and Seaborn, where I learned to create clear, informative plots like bar charts, heatmaps, and histograms to better understand data patterns and relationships. Finally, in Week 4, I took my first step into machine learning by implementing a linear regression model using scikit-learn. I learned how to train a model, make predictions, and evaluate its performance using metrics such as R² and Mean Squared Error. These four weeks have given me a strong, hands-on understanding of the entire data pipeline—from raw data and visualization to building predictive models—forming a solid base for the more advanced topics ahead.
+Week 1: Python Basics
+Learnings:
+Refreshed core Python concepts essential for ML
+Improved logical thinking and structured coding
+Built confidence in scripting and small code tasks
+
+Week 2: Data Handling (NumPy & Pandas)
+Learnings:
+Efficient handling of structured data
+Mastered basic data wrangling techniques
+Learned practical usage of libraries for real datasets
+
+Week 3: Data Visualization
+Learnings:
+Gained ability to interpret and communicate data insights visually
+Understood the role of visual tools in EDA (Exploratory Data Analysis)
+Created clear, informative plots to support data narratives
+
+Week 4: Introduction to Machine Learning
+Learnings:
+Implemented first ML model (Linear Regression)
+Learned the basic ML pipeline: model fitting, testing, evaluation
+Understood how data and algorithms interact to make predictions
+
+
+
+
+
