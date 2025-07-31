@@ -60,6 +60,19 @@ Implemented first ML model (Linear Regression)
 Learned the basic ML pipeline: model fitting, testing, evaluation
 Understood how data and algorithms interact to make predictions
 
+Week 5: Classification Models
+Implemented logistic regression for classification tasks and explored real-world application through an assignment.
+
+Week 6: Feature Engineering & Time Series
+Enhanced model performance via feature engineering and introduced time series forecasting.
+
+Week 7: Chatbots with NLP
+Built a basic NLP-powered chatbot and learned core text-processing techniques.
+
+Week 8: Final Project – Chatbot
+Developed a complete AI chatbot integrating Python, NLP, and logic for real interaction.
+
+
 
 
 
