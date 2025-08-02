@@ -1,6 +1,6 @@
 # Introduction-to-AI-ML
 
-
+```
 ├── Week_1_Python_Basics
 │   ├── variables_loops_functions.py
 │   └── notes.md
@@ -33,7 +33,7 @@
     ├── final_chatbot_project.ipynb
     ├── chatbot_utils.py
     └── README.md
-
+```
 summary of Introduction to AI/ML (Weeks 1–4)
  
 Week 1: Python Basics
